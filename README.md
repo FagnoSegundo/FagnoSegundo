@@ -1,5 +1,7 @@
 ## Olá, me chamo Fagno Segundo e sou um desenvolvedor Front-End
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 <div style="display: inline_block"><br>
   <img <i class="devicon-html5- colorido simples "></i> />
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
