@@ -1,7 +1,6 @@
 ## Olá, me chamo Fagno Segundo e sou um desenvolvedor Front-End
 
-
-<div class="icons" style="display: flex;"><br/>
+<div class="icons" style="display: flex; gap: 50px;"><br/>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
     height="50"
