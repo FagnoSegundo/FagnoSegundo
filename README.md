@@ -1,11 +1,14 @@
 ## Olá, me chamo Fagno Segundo e sou um desenvolvedor Front-End
 
-<style>
-  .icons {
-    display: flex; 
-    gap: 200px;
-  }  
-</style>
+head {
+  <style>
+    .icons {
+      display: flex; 
+      gap: 200px;
+    }  
+  </style>
+}
+
 
 <div class="icons"><br/>
   <img
