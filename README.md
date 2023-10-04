@@ -3,7 +3,7 @@
 <style>
   .icons {
     display: flex; 
-    gap: 50px;
+    gap: 200px;
   }  
 </style>
 
