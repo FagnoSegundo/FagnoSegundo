@@ -1,11 +1,6 @@
 ## Olá, me chamo Fagno Segundo e sou um desenvolvedor Front-End
 
-<div>
-
-
-
-
-  
+<div><br/>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
     height="50"
