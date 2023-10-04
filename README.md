@@ -1,13 +1,11 @@
 ## Olá, me chamo Fagno Segundo e sou um desenvolvedor Front-End
 
+<div>
 
-<style>
-  .icons{
-      color:red;
-  }
-</style>
 
-<div class="icons"><br/>
+
+
+  
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
     height="50"
@@ -25,7 +23,6 @@
     height="50"
     width="50"
   />
-          
 </div>
   
   ##
