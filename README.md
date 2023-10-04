@@ -1,6 +1,5 @@
 ## Olá, me chamo Fagno Segundo e sou um desenvolvedor Front-End
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <div class="icons" style="display: flex;"><br/>
   <img
