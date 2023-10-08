@@ -35,6 +35,6 @@
 ##
  
 <div> 
-  <a target="_blank" href="https://www.linkedin.com/in/fagno-sousa-oliveira-segundo/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/fagno-sousa-oliveira-segundo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
