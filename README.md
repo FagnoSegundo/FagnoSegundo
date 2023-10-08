@@ -1,4 +1,4 @@
-## Olá, me chamo Fagno Segundo e sou desenvolvedor Front-End
+## Olá, me chamo Fagno Segundo e sou desenvolvedor Full Stack
 
 <div><br/>
   <img
